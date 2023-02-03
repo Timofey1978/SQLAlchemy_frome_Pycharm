@@ -1,0 +1,6 @@
+connection_driver = 'postgresql'
+login = 'postgres'
+password = 'aspire5742g'
+host = 'localhost'
+port = '5432'
+name_db = 'SQLAlchemy'
